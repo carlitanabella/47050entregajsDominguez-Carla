@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "nombre": "Falda",
+        "precio": 4990,
+        "categoria": "Faldas",
+        "imagen": "../assets/img/falda.webp"
+
+    },
+    {
+        "id": 2,
+        "nombre": "Pantalon",
+        "precio": 6390,
+        "categoria": "pantalones",
+        "imagen": "../assets/img/pantalon.webp"
+
+    },
+    {
+        "id": 3,
+        "nombre": "Croptop",
+        "precio": 4490,
+        "categoria": "Tops",
+        "imagen": "../assets/img/croptop.webp"
+
+    },
+    {
+        "id": 4,
+        "nombre": "Croptop",
+        "precio": 2590,
+        "categoria": "Tops",
+        "imagen": "../assets/img/croptop2.webp"
+
+    },
+    {
+        "id": 5,
+        "nombre": "Falda",
+        "precio": 4990,
+        "categoria": "Faldas",
+        "imagen": "../assets/img/falda2.webp"
+
+    },
+    {
+        "id": 6,
+        "nombre": "Pantalon",
+        "precio": 6390,
+        "categoria": "Pantalones",
+        "imagen": "../assets/img/pantalon2.webp"
+
+    },   
+    {
+        "id": 7,
+        "nombre": "Croptop",
+        "precio": 5490,
+        "categoria": "Tops",
+        "imagen": "../assets/top3.webp"
+
+    },   
+     {
+        "id": 8,
+        "nombre": "Croptop",
+        "precio": 4590,
+        "categoria": "Tops",
+        "imagen": "../assets/top4.webp"
+
+    }
+
+]
